@@ -3,6 +3,7 @@
 *.ap_
 output.json
 output-metadata.json
+release/
 
 # Files for the ART/Dalvik VM
 *.dex

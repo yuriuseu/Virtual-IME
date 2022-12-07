@@ -1,4 +1,6 @@
-<img alt="logo" src="assets/images/keyboard.png" align="right" width="72px" height="72px" />
+<a href="https://github.com/Yuriuseu/Virtual-IME/releases/latest">
+    <img alt="logo" src="assets/images/keyboard.png" align="right" width="72px" height="72px" />
+</a>
 
 # Virtual IME
 
